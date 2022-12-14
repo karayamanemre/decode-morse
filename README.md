@@ -34,11 +34,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [decode_morse] <a name="about-project"></a>
+# 📖 Decode Morse <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
-**[decode_morse]** is a project that decodes morse text into actual letters and words
+- Decode Morse is a project that decodes morse text into actual letters and words
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -57,7 +55,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[decode_morse_text]**
+- 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -67,7 +65,7 @@
 
 - install ruby on you pc
 - follow this installation [instruction](https://github.com/microverseinc/curriculum-ruby/blob/main/simple-ruby/articles/ruby_installation_instructions.md#windows)
-- navigate to debose-morse folder
+- navigate to decode-morse folder
 - open the folder on your code editor
 
 ### Prerequisites
@@ -88,8 +86,6 @@ Clone this repository to your desired folder:
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
-
-> Mention all of the collaborators of this project.
 
 👤 **Emre Karayaman**
 
@@ -117,13 +113,13 @@ Feel free to check the [issues page](https://github.com/karayamanemre/decode-mor
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project leave a star
+If you like this project leave a star.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank my microverse code reviewers for there guidance and feedback
+I would like to thank my microverse code reviewers for there guidance and feedback.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
