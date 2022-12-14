@@ -14,6 +14,8 @@
 
 - Install Ruby.
 - Clone this repo `git clone https://github.com/karayamanemre/decode-morse`
+- Go to the repository folder in your command prompt `cd decode-morse`.
+- Run `irb` in repository terminal and load `'./decode.rb'`.
 - Pass your morse code as a parameter in this method: decode_message('')
 
 ## Authors
