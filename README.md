@@ -65,10 +65,10 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> install react on you pc
-> follow this installation [instruction](https://github.com/microverseinc/curriculum-ruby/blob/main/simple-ruby/articles/ruby_installation_instructions.md#windows)
-> navigate to debose-morse folder
-> open the folder on your code editor
+- install ruby on you pc
+- follow this installation [instruction](https://github.com/microverseinc/curriculum-ruby/blob/main/simple-ruby/articles/ruby_installation_instructions.md#windows)
+- navigate to debose-morse folder
+- open the folder on your code editor
 
 ### Prerequisites
 
