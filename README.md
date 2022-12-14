@@ -1,13 +1,5 @@
 <a name="readme-top"></a>
 
-<div align="center">
-  <img src="https://github.com/microverseinc/readme-template/raw/master/murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Microverse README Template</b></h3>
-
-</div>
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -42,20 +34,33 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Ruby
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href=""></a></li>
+  </ul>
+</details>
 
 <details>
   <summary>Server</summary>
   <ul>
-    <li><a href="https://expressjs.com/">Ruby</a></li>
+    <li><a href="https://www.ruby-lang.org/en/">Ruby</a></li>
   </ul>
 </details>
 
+<details>
+<summary>Database</summary>
+  <ul>
+    <li><a href=""></a></li>
+  </ul>
+</details>
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-- 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🚀 Live Demo <a name="live-demo"></a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -63,14 +68,11 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-- install ruby on you pc
-- follow this installation [instruction](https://github.com/microverseinc/curriculum-ruby/blob/main/simple-ruby/articles/ruby_installation_instructions.md#windows)
-- navigate to decode-morse folder
-- open the folder on your code editor
+To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project you need: Ruby installed on your pc
+In order to run this project you need: Ruby installed on your computer.
 
 ### Setup
 
@@ -80,6 +82,55 @@ Clone this repository to your desired folder:
   cd my-folder
   git clone https://github.com/karayamanemre/decode-morse.git
 ```
+
+### Install
+
+Install this project with:
+
+<!--
+Example command:
+
+```sh
+  cd my-project
+  gem install
+```
+--->
+
+### Usage
+
+To run the project, execute the following command:
+
+<!--
+Example command:
+
+```sh
+  rails server
+```
+--->
+
+### Run tests
+
+To run tests, run the following command:
+
+<!--
+Example command:
+
+```sh
+  bin/rails test test/models/article_test.rb
+```
+--->
+
+### Deployment
+
+You can deploy this project using:
+
+<!--
+Example:
+
+```sh
+
+```
+ -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -101,6 +152,10 @@ Clone this repository to your desired folder:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## 🔭 Future Features <a name="future-features"></a>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
@@ -119,14 +174,14 @@ If you like this project leave a star.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank my microverse code reviewers for there guidance and feedback.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## ❓ FAQ <a name="faq"></a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
