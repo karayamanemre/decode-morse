@@ -1,11 +1,19 @@
-# Decode-morse
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-> A project for decoding morse code. Built with Ruby.
+# Morse Decoder
+
+- A project for decoding morse code. Built with Ruby.
+
+## Built With
+
+- Ruby.
 
 ## Getting Started
 
+- Please follow the steps below to setup this project in your local computer.
+
 - Install Ruby.
-- Clone this repo git clone https://github.com/karayamanemre/decode-morse
+- Clone this repo `git clone https://github.com/karayamanemre/decode-morse`
 - Pass your morse code as a parameter in this method: decode_message('')
 
 ## Authors
