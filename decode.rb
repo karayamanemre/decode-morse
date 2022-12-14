@@ -20,9 +20,9 @@ end
 
 def decode_message(message)
   sentence = []
-  words = message.split('   ')
+  words = message.split('  ')
   words.each do |word|
     sentence.push(decode_word(word))
   end
-  sentence.join(' ')
+ sentence.join(' ')
 end
