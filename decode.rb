@@ -24,5 +24,5 @@ def decode_message(message)
   words.each do |word|
     sentence.push(decode_word(word))
   end
- sentence.join(' ')
+ sentence.join('  ')
 end
